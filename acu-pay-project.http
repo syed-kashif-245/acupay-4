@@ -1,0 +1,6 @@
+@acu_pay_project_HostAddress = http://localhost:5008
+
+GET {{acu_pay_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
