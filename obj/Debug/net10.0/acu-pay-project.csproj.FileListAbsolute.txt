@@ -1,0 +1,9 @@
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.csproj.AssemblyReference.cache
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.AssemblyInfoInputs.cache
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.AssemblyInfo.cs
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.csproj.CoreCompileInputs.cache
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kashif.syed\OneDrive - Acuvate Software Private Limited\Desktop\acu-pay\acu-pay-project\obj\Debug\net10.0\acu-pay-project.sourcelink.json
