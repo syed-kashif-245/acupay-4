@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kashif.syed\\OneDrive - Acuvate Software Private Limited\\Desktop\\acu-pay\\acu-pay-project\\acu-pay-project.csproj": {}
+    "C:\\Users\\mahendra.yalagana\\OneDrive - Acuvate Software Private Limited\\Desktop\\Capstone Project\\acupay-4\\acu-pay-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kashif.syed\\OneDrive - Acuvate Software Private Limited\\Desktop\\acu-pay\\acu-pay-project\\acu-pay-project.csproj": {
+    "C:\\Users\\mahendra.yalagana\\OneDrive - Acuvate Software Private Limited\\Desktop\\Capstone Project\\acupay-4\\acu-pay-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kashif.syed\\OneDrive - Acuvate Software Private Limited\\Desktop\\acu-pay\\acu-pay-project\\acu-pay-project.csproj",
+        "projectUniqueName": "C:\\Users\\mahendra.yalagana\\OneDrive - Acuvate Software Private Limited\\Desktop\\Capstone Project\\acupay-4\\acu-pay-project.csproj",
         "projectName": "acu-pay-project",
-        "projectPath": "C:\\Users\\kashif.syed\\OneDrive - Acuvate Software Private Limited\\Desktop\\acu-pay\\acu-pay-project\\acu-pay-project.csproj",
-        "packagesPath": "C:\\Users\\kashif.syed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kashif.syed\\OneDrive - Acuvate Software Private Limited\\Desktop\\acu-pay\\acu-pay-project\\obj\\",
+        "projectPath": "C:\\Users\\mahendra.yalagana\\OneDrive - Acuvate Software Private Limited\\Desktop\\Capstone Project\\acupay-4\\acu-pay-project.csproj",
+        "packagesPath": "C:\\Users\\mahendra.yalagana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahendra.yalagana\\OneDrive - Acuvate Software Private Limited\\Desktop\\Capstone Project\\acupay-4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kashif.syed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mahendra.yalagana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +48,19 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[10.0.12, )"
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.1, )"
             }
           },
           "imports": [

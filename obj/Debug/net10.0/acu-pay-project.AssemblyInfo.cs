@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("acu-pay-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a941b514cf8eb3bd72bfc40ab3c4569e41b463")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2732977a0f97f0df3d66bd945e0b3b0307f3577")]
 [assembly: System.Reflection.AssemblyProductAttribute("acu-pay-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("acu-pay-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
